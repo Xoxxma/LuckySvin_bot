@@ -2,9 +2,9 @@
 
 ## UA
 
-**LuckySvin_DD_bot** - це навчальний проєкт, створений у межах університетської практики.  
+**LuckySvin_DD_bot** — це навчальний проєкт, створений у межах університетської практики.  
 Проєкт реалізовано у форматі Telegram-бота з елементами текстової RPG / D&D-пригоди.  
-Основна мета роботи - практичне застосування мови **C#**, платформи **.NET 10** та бібліотеки **Telegram.Bot** для створення інтерактивного застосунку з обробкою команд, повідомлень користувача та базовими ігровими механіками.
+Основна мета роботи — практичне застосування мови **C#**, платформи **.NET 10** та бібліотеки **Telegram.Bot** для створення інтерактивного застосунку з обробкою команд, повідомлень користувача та базовими ігровими механіками.
 
 ### Мета
 Проєкт створено для закріплення практичних навичок розробки програмного забезпечення, роботи з Telegram Bot API, побудови логіки взаємодії з користувачем і реалізації простої ігрової системи.
@@ -22,6 +22,9 @@
 - .NET 10
 - Telegram.Bot
 
+### Візуальні матеріали
+Зображення, використані для оформлення проєкту, були створені за допомогою інструментів штучного інтелекту на основі попередньо підготовлених ескізів та творчих ідей.
+
 ### Запуск
 ```bash
 dotnet restore
@@ -30,13 +33,6 @@ dotnet run
 
 
 
-```text
-screenshots/
-  start.png
-  interaction.png
-  dice.png
-  result.png
-```
 
 ```md
 ### Start
@@ -77,23 +73,17 @@ The project was created to strengthen practical software development skills, wor
 - .NET 10
 - Telegram.Bot
 
+### Visual Materials
+The images used in the project presentation were created with the help of AI tools based on preliminary sketches and creative concepts.
+
 ### Run
 ```bash
 dotnet restore
 dotnet run
 ```
 
-```text
-screenshots/
-  start.png
-  interaction.png
-  dice.png
-  result.png
-```
 
 ```md
-## Screenshots
-
 ### Start
 ![Start](screenshots/start.png)
 <img width="1424" height="650" alt="image" src="https://github.com/user-attachments/assets/5360d527-3166-4b45-88b3-7cbbb7677043" />
@@ -105,7 +95,6 @@ screenshots/
 ### Result
 ![Result](screenshots/result.png)
 <img width="177" height="128" alt="image" src="https://github.com/user-attachments/assets/c4ca7323-0f4e-4770-a2de-7c26aa02ec3b" />
-
 ```
 
 ### Status
