@@ -36,16 +36,13 @@ dotnet run
 
 ```md
 ### Start
-![Start](screenshots/start.png)
-<img width="1424" height="650" alt="image" src="https://github.com/user-attachments/assets/5360d527-3166-4b45-88b3-7cbbb7677043" />
+![Start](screenshots/start.jpg)
 
 ### Dice Roll
-![Dice Roll](screenshots/dice.png)
-<img width="1444" height="962" alt="image" src="https://github.com/user-attachments/assets/bacc295f-0114-408d-8d24-6e88686831f8" />
+![Dice Roll](screenshots/dice.jpg)
 
 ### Result
-![Result](screenshots/result.png)
-<img width="177" height="128" alt="image" src="https://github.com/user-attachments/assets/c4ca7323-0f4e-4770-a2de-7c26aa02ec3b" />
+![Result](screenshots/result.jpg)
 ```
 
 ### Стан
@@ -85,16 +82,13 @@ dotnet run
 
 ```md
 ### Start
-![Start](screenshots/start.png)
-<img width="1424" height="650" alt="image" src="https://github.com/user-attachments/assets/5360d527-3166-4b45-88b3-7cbbb7677043" />
+![Start](screenshots/start.jpg)
 
 ### Dice Roll
-![Dice Roll](screenshots/dice.png)
-<img width="1444" height="962" alt="image" src="https://github.com/user-attachments/assets/bacc295f-0114-408d-8d24-6e88686831f8" />
+![Dice Roll](screenshots/dice.jpg)
 
 ### Result
-![Result](screenshots/result.png)
-<img width="177" height="128" alt="image" src="https://github.com/user-attachments/assets/c4ca7323-0f4e-4770-a2de-7c26aa02ec3b" />
+![Result](screenshots/result.jpg)
 ```
 
 ### Status
