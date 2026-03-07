@@ -37,12 +37,15 @@ dotnet run
 ```md
 ### Start
 ![Start](screenshots/start.jpg)
+https://github.com/Xoxxma/LuckySvin_bot/blob/main/Screenshots/start.jpg
 
 ### Dice Roll
 ![Dice Roll](screenshots/dice.jpg)
+https://github.com/Xoxxma/LuckySvin_bot/blob/main/Screenshots/dice.jpg
 
 ### Result
 ![Result](screenshots/result.jpg)
+https://github.com/Xoxxma/LuckySvin_bot/blob/main/Screenshots/result.jpg
 ```
 
 ### Стан
@@ -83,12 +86,15 @@ dotnet run
 ```md
 ### Start
 ![Start](screenshots/start.jpg)
+https://github.com/Xoxxma/LuckySvin_bot/blob/main/Screenshots/start.jpg
 
 ### Dice Roll
 ![Dice Roll](screenshots/dice.jpg)
+https://github.com/Xoxxma/LuckySvin_bot/blob/main/Screenshots/dice.jpg
 
 ### Result
 ![Result](screenshots/result.jpg)
+https://github.com/Xoxxma/LuckySvin_bot/blob/main/Screenshots/result.jpg
 ```
 
 ### Status
